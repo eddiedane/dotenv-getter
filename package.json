@@ -1,6 +1,6 @@
 {
   "name": "dotenv-getter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Provide a global env() function to get environment variables",
   "main": "./src/index.js",
   "scripts": {
